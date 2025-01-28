@@ -1,0 +1,29 @@
+[
+   {
+      "question": "A random sample of size 12 is drawn from a normal population with mean &mu; and unknown variance &sigma;<sup>2</sup>. Then under H<sub>0</sub> : &mu; = 15, the test statistic (x&#772; - 15)/(s/&Sqrt;12) where s<sup>2</sup> is the sample mean square and x&#772; is the sample mean follows",
+      "qid": 1,
+      "option_a": "t-distribution with 12 degrees of freedom (df)",
+      "option_b": "t-distribution with 15 df",
+      "option_c": "t-distribution with 14 df",
+      "option_d": "t-distribution with 11 df",
+      "correct_option": "d"
+   },
+   {
+      "question": "Suppose x<sub>1</sub>, x<sub>2</sub>,...,x<sub>10</sub> is a random sample from normal distribution with mean &mu; and known variance &sigma;<sup>2</sup> (of size 10) then under H<sub>0</sub> : &mu; = 4, the test statistic (x&#772; - 4)/(&sigma;/&Sqrt;10) follows",
+      "qid": 2,
+      "option_a": "t-distribution with 9 df",
+      "option_b": "t-distribution with 10 df",
+      "option_c": "standard normal distribution",
+      "option_d": "t-distribution with 4 df",
+      "correct_option": "c"
+   },
+   {
+      "question": "Let x<sub>1</sub>,x<sub>2</sub>,...,x<sub>9</sub> be a random sample from a normal population with mean &mu; and unknown variance &sigma;<sup>2</sup>. For testing H<sub>0</sub> : &mu; = 16 vs H<sub>1</sub> : &mu; &ne; 16 at level of significance &alpha;, the critical regiion is given by",
+      "qid": 3,
+      "option_a": "t<sub>cal</sub> < t<sub>8, &alpha;/2</sub>",
+      "option_b": "|t<sub>cal</sub>| &ge; t<sub>8, &alpha;/2</sub>",
+      "option_c": "t<sub>cal</sub> &ge; t<sub>9, &alpha;/2</sub>",
+      "option_d": "t<sub>cal</sub> < t<sub>9, &alpha;/2</sub>",
+      "correct_option": "b"
+   }
+]
