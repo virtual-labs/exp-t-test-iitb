@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A t-test can be applied on the random sample drawn from the population which follows",
+      "qid": 1,
+      "option_a": "t-distribution",
+      "option_b": "Normal distribution",
+      "option_c": "chi-square distribution",
+      "option_d": "Exponential distribution",
+      "correct_option": "b"
+   },
+   {
+      "question": "A t-test used to test null hypothesis, H<sub>0</sub> : &mu; = &mu;<sub>0</sub> with a random sample of size n,(n<30), is called as",
+      "qid": 2,
+      "option_a": "one sample t-test",
+      "option_b": "paired t-test",
+      "option_c": "two sample t-test",
+      "option_d": "test for equality of variance",
+      "correct_option": "a"
+   }
+]
